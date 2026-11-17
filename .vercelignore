@@ -1,0 +1,13 @@
+.env*
+!.env.example
+legacy-static/
+Aektaphong_portfolio_archive/
+qa/
+tests/
+.next/
+node_modules/
+*.zip
+TASK-STATUS.md
+
+out/
+database/

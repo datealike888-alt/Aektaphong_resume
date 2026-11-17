@@ -1,0 +1,1 @@
+export default function NotFound() { return <main id="main" className="section container" tabIndex={-1}><h1>ไม่พบหน้าที่ต้องการ</h1><a className="button secondary" href="/">กลับหน้า Portfolio</a></main>; }
